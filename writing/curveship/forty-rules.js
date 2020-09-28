@@ -21,6 +21,7 @@ thing.memories.owner = actor.ella;
 //2
 var WANDER = new Event(actor.john, "are going", "to the library");
 var WALK = new Event(actor.ella, "are walking with", actor.john);
+var DOWN = new Event(actor.john, "look", "distractedly around")
 var WIPE = new Event(actor.ella, "resist", "the urge to step away");
 var OVER = new Event(actor.ella, "want", "this to be over");
 var WANDER = new Event(actor.ella, "think", "about books and blankets and stars and night");
