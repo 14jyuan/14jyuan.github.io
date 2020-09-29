@@ -1,4 +1,4 @@
-//  Forty Rules of Love
+// Starry Memories
 
 var metadata = { title: "Starry Memories", author: "Joanne Yuan", date: "2020",
 instructions: "Click below or add your own parameters to the URL to change the “spin” and to create variation in the narrative discourse. You have to use the official names of “actors” for narrator and narratee. Examples:",
